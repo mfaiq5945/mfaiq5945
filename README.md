@@ -15,7 +15,7 @@ backend: customer orders automatically flow into Google Sheets and trigger
 confirmation emails — no manual work, no paid automation tool.
 
 - 🔗 Live demo: https://classy-chimera-e56bab.netlify.app
-- 💻 Code: [github.com/mfaiq5945/vareno-ecommerce]
+- 💻 Code: [https://github.com/mfaiq5945/vareno-ecommerce]
 - 🛠️ Stack: HTML/CSS/JS, Google Apps Script, Google Sheets, Gmail API, Netlify
 
 ## Links
