@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Faiq 👋
 
-<!--
-**mfaiq5945/mfaiq5945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15 years old, based in Jhelum, Pakistan — learning to build in AI & automation.
 
-Here are some ideas to get you started:
+I'm currently focused on:
+- 🤖 AI automation (n8n, webhooks, workflow tools)
+- 🌐 Web development
+- 📈 Building real, working projects instead of just tutorials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### 🧥 VARENO — Premium E-Commerce Site with Automated Order Pipeline
+A full storefront (22 products, cart, checkout, wishlist, search) wired to a real
+backend: customer orders automatically flow into Google Sheets and trigger
+confirmation emails — no manual work, no paid automation tool.
+
+- 🔗 Live demo: https://classy-chimera-e56bab.netlify.app
+- 💻 Code: [github.com/mfaiq5945/vareno-ecommerce]
+- 🛠️ Stack: HTML/CSS/JS, Google Apps Script, Google Sheets, Gmail API, Netlify
+
+## Links
+- 📄 Portfolio: [https://jelly-fontina-35e.notion.site/portfolio-3bd0dbca2d5480c58c6cec138efdc2cf]
+- 📧 Email: mfaiq5945@gmail.com
+
+---
+*Always learning, always shipping.*
+
